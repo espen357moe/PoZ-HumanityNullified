@@ -1,8 +1,9 @@
-# Portal of Zabulon Humanity Nullified
+# Portal of Zabulon - Humanity Nullified
 
 ## Verse 1
 
 From our vantage point of Sol
+
 We are in control
 
 *Peculiar creatures*
