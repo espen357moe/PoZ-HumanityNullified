@@ -4,7 +4,7 @@
 Credits:
 
 Music by Espen Moe
-Guitars, bass guitar, drums, programming, vocals, lyrics and mix by Espen Moe
+Guitars, bass guitar, drums, programming, vocals, lyrics and engineering by Espen Moe
 Guitar solo by Rudi Johnsen
 ```
 
