@@ -1,6 +1,6 @@
 # Portal of Zabulon - Humanity Nullified
 
-```text
+```none
 Music by Espen Moe
 Guitars, bass guitar, drums, programming, vocals, lyrics and mix by Espen Moe
 Guitar solo by Rudi Johnsen
