@@ -67,6 +67,10 @@ You exploited
 All in vain
 
 Face extinction
+
+## Outro
+
+Pride comes before a fall x4
  
 
 
