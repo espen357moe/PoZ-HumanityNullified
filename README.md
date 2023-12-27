@@ -1,5 +1,11 @@
 # Portal of Zabulon - Humanity Nullified
 
+```text
+Music by Espen Moe
+Guitars, bass guitar, drums, programming, vocals, lyrics and mix by Espen Moe
+Guitar solo by Rudi Johnsen
+```
+
 ## Verse 1
 
 From our vantage point of Sol
